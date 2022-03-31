@@ -1,6 +1,5 @@
 # ShoppingList
-
-Kindly check and let me know if there is any mistake.
+Simple filter data demo. 
 
 
 
